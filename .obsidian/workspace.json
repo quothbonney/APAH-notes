@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bff850e856b1eea4",
+        "id": "3cb9008f4f2b5a01",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f470693fc7cb3a",
+            "id": "0b824862a2c0519a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,9 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9f470693fc7cb3a",
+  "active": "0b824862a2c0519a",
   "lastOpenFiles": [
     "Art Template.md",
+    "Images/Screenshot.md",
     "README.md",
     "Chap 7/Late Antique Art.md",
     "Chap 7/Early Christian Architecture.md",
@@ -146,7 +147,6 @@
     "Chap 9/Folio from a Qur'an.md",
     "Chap 9/Islamic Art.md",
     "Chap 9/Pyxis of al-Mughira.md",
-    "Chap 9/Sinan, Mosque of Selim II.md",
-    "Chap 9/Alhambra.md"
+    "Chap 9/Sinan, Mosque of Selim II.md"
   ]
 }
