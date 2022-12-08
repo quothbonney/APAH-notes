@@ -1,0 +1,106 @@
+**Related to:** [[Islamic Art]]
+
+The work of Islamic artists is deeply varied in theme, appearance, and style, but relies fundamentally on rigid principles of mathematics in conjunction with characteristic Islamic patterns such as calligraphy and tessellation. An early example of this is the Dome of the Rock, in Jerusalem. As Islam spread at unprecedented rates following the death of its prophet, the Dome of the Rock remains the earliest masterpiece of Islamic sacred architecture. Unlike other notable Islamic buildings, it is not a mosque; it is, instead, a shrine for the holy rocks upon which the Muslim religion formed. Among other events, the site was the location of King Solomon's first temple of Judaism, destroyed by Nebuchadnezzar. In addition, it is believed that the Ark of the Covenant lies somewhere underneath, so is the site in which Abraham nearly scarified Isaac, and Muhammad first ascended to heaven
+
+
+
+- People in Spain used a piece of brass to find the direction Mecca
+	- such innovations point towards the advanced astronomy of Islam
+- Dome of the Rock, Jerusalem, 1023
+	- One of the most significant buildings
+	- Changed history (?)
+	- Muhammad died in 632
+	- Islam continued conquest
+	- Fastest expansion in world history
+		- Aggressive, dramatic, and impressive !!!
+	- Not much art from this period
+	- However, the Temple of the Rock came out of no significant artistic tradition
+	- Power geometry and walls of mosaics
+	- Came out of advanced Islamic math and architecture
+	- Octagon
+		- If the earth is a square and heaven is a circle, an octagon is a symbol of the connection between them
+	- Carefully calculated proportions
+	- Walls covered with calligraphy
+	- Plaza on which it is located one of the most important in history
+		- Solomon's temple destroyed by Nebuchadnezzar
+		- King Herod's temple
+	- Sits on layers of these things
+	- Important distinction: not a mosque, a shrine
+	- It was a place of pilgrimage
+		- Built around a rock
+		- Arc of the covenant lies somewhere underneath
+		- Abraham attempted to sacrifice Isaac here
+		- From this rock, Muhammad ascended to heaven
+	- Based on the round architecture of Byzantine Christianity
+	- Mosaics on every wall to reflect light beautifully
+		- Invoke a vision of paradise
+- The Damascus Mosque, Damascus, 715
+	- Umayyad Caliphate
+	- Hoped to actually describe heaven with elaborate visions
+	- One of Islam's most dramatic moments
+	- Highlights the beauty of heaven
+- Kazir Amra Bathhouse
+	- Interior covered with Frescoes
+	- Oldest purely secular Islamic building
+	- Female beauty and magical creatures
+	- Dome of stars (star chart) in hot room
+		- Zodiac signs and constellations
+- Brazier, 8th century
+	- Dug up recently
+	- One of the only surviving items
+	- Used for burning incense 
+	- Sensual illustrations
+	- Important reminder that traditional Islamic art was often highly sensual
+- Mosque of Ibn Tulun, Cairo, 884
+	- Supposedly the place that Noah's Arc came to rest
+	- All mosques are based on Muhammad's own mosque in Medina
+		- Courtyard
+		- Place to clean
+		- Walls around court
+		- Roof to protect from the sun
+		- Prayer hall that was the prophet's own home
+		- Most walls are square in regard to the *Qibla* that points to Mecca
+		- Marked by the *Mihrab*
+			- Elaborate
+			- Based on Byzantine churches
+		- *Minbar* is pulpit where Muhammad spoke
+	- Beautiful abstract stucco work around arches and walls
+- Blue Koran
+	- One of the earliest complete Qur'ans 
+	- First known Koran that was art before anything else
+- Nilometer of Roda Island, 861
+	- (One of my favorite things I've seen so far)
+	- Both scientific and artistic
+	- Sounding pole to measure Nile flood depth
+		- Measured in cubits
+		- Used to calculate tax rates based on flood (signalling quality of harvest)
+	- Beautiful Quranic inscriptions in *Kufic* script
+-  City of Kairouan, Tunisia
+	- African Muslim city based on water springs
+	- Mosque built on top of water spring
+	- "Particularly pure Islamic city"
+		- Has never been another religion or empire
+	- Mosque was built entirely from other buildings, see *spolia*
+	- *Minaret* is a defining achievement
+		- Place to call to prayer
+		- Tower inside a mosque
+		- Comes from lighthouse
+		- Particularly beautiful
+		- Particularly ambitious type of construction for the dark ages
+- Crystal carving
+	- Mentioned extensively in the Koran
+	- Introduced and perfect in Egypt
+	- Crystal ewers transport the recipient to paradise in the Qur'an
+	- Carved out the ewers was extremely difficult (as you can probably imagine)
+	- Different from Christian crystal carving
+		- Christian crystals are more talismanic, ritualistic, and dark
+- Cordoba
+	- When the Umayyad empire got to Spain they expanded up to Seville but were particularly strong in a town called Cordoba
+	- Used early water wheels
+	- Fertile land like paradise on earth
+	- Last stand of Umayyad Empire until the 16th century
+	- Mosque of Cordoba
+		- Muslims and Visigoth Christians shared the building
+		- Gorgeous columns
+		- Double arches (arch on top of each other) to support smaller columns stolen in *spolia*
+		- Aesthetics of light shaped the building
