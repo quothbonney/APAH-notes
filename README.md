@@ -6,4 +6,4 @@ The notes can be read online on GitHub with the integrated markdown viewer. Just
 
 
 ### Most Recent Notes Graph
-!["Image"](Images/graphss.png)
+![](Images/graphss.png)

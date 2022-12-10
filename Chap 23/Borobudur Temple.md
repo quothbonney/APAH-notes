@@ -1,7 +1,7 @@
 **Related to:** [[Buddhism]], [[Buddhist Architecture]], [[Indian and Southeast Asian Art]]
 **Related artwork:** [[Great Stupa]]
 
-[[Pasted image 20221108145307.png]]
+![[Pasted image 20221108145307.png]]
 
 ### Identification
 - **Name** Borobudur Temple

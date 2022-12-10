@@ -1,7 +1,7 @@
 **Related to:** [[Hinduism]], [[Indian and Southeast Asian Art]]
 **Related artwork:** 
 
-[[Pasted image 20221108163804.png]]
+![[Pasted image 20221108163804.png]]
 
 ### Identification
 - **Name** Jahangir Preferring a Sufi Shaikh to Kings

@@ -1,7 +1,7 @@
 **Related to:** [[Hinduism]], [[Hindu Sculpture & Architecture]], [[Indian and Southeast Asian Art]]
 **Related artwork:** 
 
-[[Pasted image 20221108162545.png]]
+![[Pasted image 20221108162545.png]]
 
 ### Identification
 - **Name** Angkor Wat

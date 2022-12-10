@@ -6,5 +6,8 @@
     "downscalePercent": 76
   },
   "attachmentFolderPath": "Images",
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "vimMode": true
 }

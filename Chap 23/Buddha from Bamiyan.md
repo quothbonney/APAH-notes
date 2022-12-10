@@ -1,7 +1,7 @@
 **Related to:** [[Buddhism]], [[Indian and Southeast Asian Art]]
 **Related artwork:** [[Greate Sphinx]], [[Lamassu]]
 
-[[Pasted image 20221102145723.png]]
+![[Pasted image 20221102145723.png]]
 
 ### Identification
 - **Name** Buddha from Bamiyan

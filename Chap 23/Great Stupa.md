@@ -1,7 +1,7 @@
  **Related to:** [[Buddhist Architecture]], [[Indian and Southeast Asian Art]], [[Buddhism]]
  **Related artwork:** 
  
-[[Pasted image 20221102152150.png]]
+![[Pasted image 20221102152150.png]]
  
 
 ### Identification
