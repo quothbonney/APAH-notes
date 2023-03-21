@@ -1,7 +1,7 @@
 **Related to:** [[Late-Ninteenth Century Art]]
 **Related artwork:** [[Marriage A-la-Mode]], [[The Swing]]
 
-![[Pasted image 20230319220017.png]]
+![[Pasted image 20230320100058.png]]
 
 ### Identification
 - **Artist** Honore Daumier
