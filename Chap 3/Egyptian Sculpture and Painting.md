@@ -1,0 +1,21 @@
+**Related to:** [[Egyptian Art]]
+
+- Sculpture as monuments is novel
+- Sarcophagi were carved from enormous stone
+- Hieroglyphics describe the dead
+- Writing was very important
+- Spiritual themes of the superhuman were constant
+- Dedicated to the premise that things were to last forever
+	- Therefore, represented the human figure as accurately as possible
+- Little individuality 
+	- Seen frontally
+	- Women and children are short and painted yellow
+	- No shading
+	- Little violence
+- Figures rest on a ground line *Register*
+- Proportions are literally gridded in
+- Amarna Period
+	- Relaxation of rules
+	- Softer figures with slack jaws
+- Often carved *in situ* from avaiable rock
+- Reliefs are highly raised from the surace

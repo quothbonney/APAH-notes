@@ -1,0 +1,9 @@
+- Art that exists before righting
+- Manifests on a lot of practical and ritual objects
+- Interested in eclipses, cosmic phenomena, and fertility
+- Oldest objects are asian or african
+- Starts out with rock paintings and moves towards architecture and sculpture
+- Cave paintings + megaliths show important rituals
+- Shamanistic religions
+- NOT PRIMITIVE
+	- Some accomplishments like Stonehenge are extremely advanced

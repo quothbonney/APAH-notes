@@ -1,0 +1,14 @@
+- Interior wall paintings livened windowless Roman cubicula
+- Frescoed mythological scenes, landscapes, or city locations
+- Mosaics were favored for floor deocrations
+- *Encaustics* provided individual portraits often of the deceased
+- Murals had *Linear Perspective*
+	- Spatial relationships in landsacape paintings appeared somewhat consistent
+- Orthoganals for perspective
+- *Atmospheric Perspective*
+	- Painted in *foreshortening*
+	- Painted at an oblique angle receding into space
+- Most surviving art is from Pompeian art
+	- First Pompeian Style has painted rectangular squares that resemble marble (so poor people could have cool looking houses)
+	- Second Pompeian Style had mythological scens or land scapes
+	- Third style is colorful with a lot of columns and shit[]

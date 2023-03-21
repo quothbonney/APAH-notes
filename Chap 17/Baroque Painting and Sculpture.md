@@ -1,0 +1,21 @@
+- Explored subjects that were conceived in the Renaissance
+	- Still life, genre, and landscape
+- These new topics reached a pinnacle in the 17th century
+- Religious and historical paintings were still considered the highest form
+- Great artists like Rembrandt and Rubens
+- Still lifes mastered by the Dutch
+- Landscapes express a higher meaning
+- Still lifes express a vanitas theme (the brevity of life against human vanity)
+- Broad open landscapes feature small people for a Biblical or mythological msesage
+- Genre paintings had allegorical cmmentary
+- Landscapes were composited, not of real locations
+- Interested in the handling of light and shadow
+- Impasto brushwork created a feeling of spontaneity (visible brushwork)
+- Use of polishes and abrasions
+- Caravaggio painted expressive movement
+- Drama is extreme
+- Light effects too
+- Light rendered offstage
+- Bernini is the greatest sculptor from this period
+	- Emphasis on action in mid motion
+- 

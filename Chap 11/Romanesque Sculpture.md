@@ -1,0 +1,10 @@
+- Stone sculpture was not done in the Early Medieval
+- Romanesque brought sstone sculpture back
+- Inspiration from goldsmiths
+- Sculpture placed aorund churhc portals so worshippers would understand
+- Romanesque painting is defined by surviving illuminated manuscripts
+- Figures appear to float
+- Painted capitals
+- fFlattened lok with zigzag drapery
+- Carefully defined scale
+- 
