@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "01f19fc09231fcbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2fa2a59ed8621dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "025d873767acd708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chap 11/Romanesque Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6327665b231b88f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4835b3c3ac344fd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de61418fe791156b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "0dae59a03c7de788",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cc2c22e4d39c13f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "40a5b05861e2e6d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17e3337b4ecf63f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14676a5e21a98eb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chap 11/Romanesque Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dda9403f3237a76e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chap 11/Romanesque Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "245964ca99a7ad95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "022b03ff08c4cd0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chap 11/Romanesque Architecture.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "025d873767acd708",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "Templates/Art Template.md",
+    "scre.png.md",
+    "Templates/Images/screen2.png",
+    "Chap 18/Angel with Arquebus.md",
+    "Chap 18/Portrait of Sor Juana Ines de la Cruz.md",
+    "Chap 18/Frontispiece of the Codex Mendoza.md",
+    "Chap 18/Art of New Spain.md",
+    "Chap 12/Royal West Portals.md",
+    "Chap 12/Gothic Art.md",
+    "Chap 12/Notre Dame de la Belle Verriere.md",
+    "Chap 12/Rottgen Pieta.md",
+    "Chap 18/Virgin of Guadalupe.md",
+    "Chap 18/Spaniard and Indian Produce a Mestizo.md",
+    "Chap 18/Screen with the Siege Belgrade.md",
+    "Chap 19/Oath of the Horatii.md",
+    "Chap 19/Monticello.md",
+    "Chap 19/The Swing.md",
+    "Chap 19/A Philosopher Lecturing on the Orrey.md",
+    "Chap 19/Marriage A-la-Mode.md",
+    "Chap 19/Self Portrait.md",
+    "Chap 19/George Washington.md",
+    "Chap 20/There's Nothing to be Done.md",
+    "Chap 20/La Grande Odalisque.md",
+    "Chap 20/Palace of Westminster.md",
+    "Chap 20/Liberty Leading the People.md",
+    "Templates/Images/Pasted image 20230227181221.png",
+    "Templates/Images/Pasted image 20230302183500.png",
+    "Templates/Images/Pasted image 20230302182526.png",
+    "Templates/Images/Pasted image 20230302180108.png",
+    "Templates/Images/Pasted image 20230302180052.png",
+    "Templates/Images/Pasted image 20230302175321.png",
+    "Untitled.canvas",
+    "Templates/Images/Pasted image 20230302153522.png",
+    "Templates/Images/Pasted image 20230227173549.png",
+    "Templates/Images/Pasted image 20230301213651.png",
+    "Chap 20",
+    "Chap 19",
+    "Chap 18"
+  ]
+}

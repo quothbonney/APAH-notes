@@ -1,0 +1,8 @@
+- Coined in 1955
+- Reached its peak in 1960s
+- Uses materials of the everyday world
+- Saw absolutely no distinction between so called "high" and "low art"
+	- Art work unites "design" with fine art
+- Puts the reality of life direclty in the reach with the viewer
+- Often scales everydasy objects
+	- Reaction against Abstract Expressionis

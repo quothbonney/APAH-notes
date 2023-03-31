@@ -1,7 +1,7 @@
 **Related to:** [[Chap 21/Late-Ninteenth Century Art]]
 **Related artwork:** [[La Grande Odalisque]], 
 
-![[Pasted image 20230320182029.png]]
+![[Pasted image 20230320182029.png|300]]
 
 ### Identification
 - **Artist** Mary Cassatt 
